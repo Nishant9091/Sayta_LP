@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d6c01da2.css",
+    "main.js": "/static/js/main.5bea6846.js",
+    "static/js/787.23fdc5e7.chunk.js": "/static/js/787.23fdc5e7.chunk.js",
+    "static/media/MVI_3661.MOV": "/static/media/MVI_3661.8f3189875d27f9f4b5d8.MOV",
+    "static/media/IMG_3714-removebg.png": "/static/media/IMG_3714-removebg.b6fd931626ba5bf97191.png",
+    "static/media/IMG_8687.JPG": "/static/media/IMG_8687.704c570e9df826e0a53e.JPG",
+    "static/media/Logo-Final-Longfor-website-min.png": "/static/media/Logo-Final-Longfor-website-min.fe32ef70a1c3938b9668.png",
+    "static/media/WhatsApp Image 2023-12-14 at 1.11.20 PM.jpeg": "/static/media/WhatsApp Image 2023-12-14 at 1.11.20 PM.0efef977172dd23ff514.jpeg",
+    "static/media/WhatsApp-Image-2023-11-04-at-13.31.38.jpg": "/static/media/WhatsApp-Image-2023-11-04-at-13.31.38.4d22c25e0581324774aa.jpg",
+    "static/media/WhatsApp-Image-2023-11-04-at-11.46.30.jpg": "/static/media/WhatsApp-Image-2023-11-04-at-11.46.30.07c4422dd0760296666d.jpg",
+    "static/media/WhatsApp-Image-2023-11-04-at-13.30.58.jpg": "/static/media/WhatsApp-Image-2023-11-04-at-13.30.58.6b16daaa29dfb0968ee8.jpg",
+    "static/media/WhatsApp-Image-2023-11-04-at-13.29.35.jpg": "/static/media/WhatsApp-Image-2023-11-04-at-13.29.35.11feae4098c281b91ff6.jpg",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/Lp.jpg": "/static/media/Lp.b3d6f84306ea33a1e8b5.jpg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.d6c01da2.css.map": "/static/css/main.d6c01da2.css.map",
+    "main.5bea6846.js.map": "/static/js/main.5bea6846.js.map",
+    "787.23fdc5e7.chunk.js.map": "/static/js/787.23fdc5e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6c01da2.css",
+    "static/js/main.5bea6846.js"
+  ]
+}
